@@ -59,9 +59,8 @@ Download the pre-trained models for CLIMB:
 
 ## Acknowledgements
 
-We thank the above repositories for their contributions and resources: 
-![MONAI](https://monai.io/) and its [GenerativeModels](https://github.com/Project-MONAI/GenerativeModels/tree/main) extension.
-![BrLP](https://github.com/LemuelPuglisi/BrLP)
+We thank the above repositories for their contributions and resources: [BrLP](https://github.com/LemuelPuglisi/BrLP), [MONAI](https://monai.io/) and its [GenerativeModels](https://github.com/Project-MONAI/GenerativeModels/tree/main) extension.
+
 
 
 
