@@ -43,8 +43,9 @@ python inference.py
 
 Running the program looks like this:
 
-![inference-preview](results/002_S_0954/axial_002_S_0954.gif)
-
+![inference-preview](results/094_S_4282/axial_094_S_4282.gif)
+![inference-preview](results/094_S_4282/coronal_094_S_4282.gif)
+![inference-preview](results/094_S_4282/sagittal_094_S_4282.gif)
 
 ## Pretrained models
 
