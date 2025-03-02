@@ -9,7 +9,6 @@
 
 
 ## Training
------Train models------
 Step1: Train autoencoder model
 ```console
 python train_autoencoder.py 
@@ -60,9 +59,9 @@ Download the pre-trained models for CLIMB:
 
 ## Acknowledgements
 
-We thank the above repositories for their contributions and resources 
-[MONAI](https://monai.io/) and its [GenerativeModels](https://github.com/Project-MONAI/GenerativeModels/tree/main) extension.
-[BrLP](https://github.com/LemuelPuglisi/BrLP)
+We thank the above repositories for their contributions and resources: 
+![MONAI](https://monai.io/) and its [GenerativeModels](https://github.com/Project-MONAI/GenerativeModels/tree/main) extension.
+![BrLP](https://github.com/LemuelPuglisi/BrLP)
 
 
 
