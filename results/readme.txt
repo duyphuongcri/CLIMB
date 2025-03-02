@@ -1,0 +1,2 @@
+We have enclosed generated images modeling the evolution of brain structure over 10 years from three samples.
+As can be seen in the generated images, the CSF volume (back region inside the brain) slightly increases overtime.
