@@ -1,8 +1,8 @@
-CLIMB: Controllable Longitudinal Brain Image Generation via Mamba-based Latent Diffusion Model
+<h4 align="center">CLIMB: Controllable Longitudinal Brain Image Generation via Mamba-based Latent Diffusion Model</h4>
 
-📦 Installation
 
-Clone the repository and install dependencies:
+## Table of Contents
+- [Training](#training)
 - [Inference](#Inference)
 - [Pretrained models](#pretrained-models)
 - [Acknowledgements](#acknowledgements)
