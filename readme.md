@@ -12,7 +12,7 @@
 ## Installation  
 Clone the repository and install dependencies:
 
-```bash
+```console
 git clone https://github.com/duyphuongcri/CLIMB.git
 cd CLIMB  
 pip install -r requirements.txt
