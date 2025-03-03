@@ -2,11 +2,24 @@
 
 
 ## Table of Contents
+- [Installation](#installation)  
+- [Dataset](#dataset)
 - [Training](#training)
 - [Inference](#Inference)
 - [Pretrained models](#pretrained-models)
 - [Acknowledgements](#acknowledgements)
 
+## Installation  
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/duyphuongcri/CLIMB.git
+cd CLIMB  
+pip install -r requirements.txt
+```
+
+## Dataset  
+This model uses the ADNI dataset. You can download it from [here](https://adni.loni.usc.edu/).
 
 ## Training
 Step1: Train autoencoder model
